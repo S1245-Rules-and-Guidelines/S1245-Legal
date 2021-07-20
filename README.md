@@ -41,4 +41,4 @@
 8d) Any protections granted by rules does not apply to players on the KoS list.
 
 **Guidelines:**
-Players should avoid attacking players with empty bases (eg. double hit)
+1. Players should avoid attacking players with empty bases (eg. double hit)
