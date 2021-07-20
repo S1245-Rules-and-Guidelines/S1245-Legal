@@ -40,5 +40,5 @@
 8c) Ignorance is not an excuse for rule violations.
 8d) Any protections granted by rules does not apply to players on the KoS list.
 
-**Guidelines**
+**Guidelines:**
 Players should avoid attacking players with empty bases (eg. double hit)
