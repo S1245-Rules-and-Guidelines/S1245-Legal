@@ -7,13 +7,16 @@
 1c) Attacking facilities in Server 1245 is prohibited
 1d) Gathering inside other alliances hives is prohibited
 
-2. Regarding attacking bases.
+2. Regarding attacking bases and structures.
 2a) Attacking outside of SvS [Server versus Server] or KE [Kill Event] is prohibited unless you are attacking a rebel on the KoS [Kill on Sight] list. (see 2d, 5c)
 2b) During KE, attacking players more than five (5) player levels lower than you first as shown on the world map is prohibited without written consent.
 2c) Attacking players on one bar (will be ported if they lose) is prohibited except when they are actively attacking. Attacking while on one bar is not prohibited.
 2d) Players within 3 adjacent tiles to the edge of your hive are open to attack at any time unless they are within 3 adjacent tiles to their own hive.
 2e) Players are not permitted to attack while there are reinforcements in your base. You can check using the 'Backup' button in your War Hall.
-2f) You are not permitted to build weakening facilities within 10 adjacent tiles of other hives outside of KE and SvS.
+ - structures - 
+2f) You are not permitted to build weakening facilities within 10 adjacent tiles of other hives or world boss outside of KE and SvS.
+2g) You are not permitted to attack strengthening facilities except those within 3 adjacent tiles of your hive.
+2h) You are not permitted to attack weakening facilities except those in violation of (2f).
 
 3. Regarding reinforcements.
 3a) During KE, you are permitted to reinforce players of any level as long as they have not actively attacked in the last five (5) minutes.
