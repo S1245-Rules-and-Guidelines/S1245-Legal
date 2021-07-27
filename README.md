@@ -15,8 +15,9 @@
 2e) Players are not permitted to attack while there are reinforcements in your base. You can check using the 'Backup' button in your War Hall.
  - structures - 
 2f) You are not permitted to build weakening facilities within 10 adjacent tiles of other hives or world boss outside of KE and SvS.
-2g) You are not permitted to attack strengthening facilities except those within 3 adjacent tiles of your hive.
+2g) You are not permitted to build strengthening facilities within 3 adjacent tiles of other hives outside of KE and SvS.
 2h) You are not permitted to attack weakening facilities except those in violation of (2f).
+2i) You are not permitted to attack strengthening facilities except those in violation of (2g).
 
 3. Regarding reinforcements.
 3a) During KE, you are permitted to reinforce players of any level as long as they have not actively attacked in the last five (5) minutes.
