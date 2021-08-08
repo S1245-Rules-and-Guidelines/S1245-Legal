@@ -10,8 +10,7 @@
 2. Regarding attacking bases and structures.
 2a) Attacking outside of SvS [Server versus Server] or KE [Kill Event] is prohibited unless you are attacking a rebel on the KoS [Kill on Sight] list. (see 2d, 5c)
 2b) During KE, attacking players more than five (5) player levels lower than you first as shown on the world map is prohibited without written consent.
-2c) Attacking players on one bar (will be ported if they lose) is prohibited except when they are actively attacking. Attacking while on one bar is not prohibited. This rule does not apply to bases
-in the capital area.
+2c) Attacking players on one bar (will be ported if they lose) is prohibited except when they are actively attacking. Attacking while on one bar is not prohibited. You are not prohibited from attacking bases with one bar in the capital area.
 2d) Players within 3 adjacent tiles to the edge of your hive are open to attack at any time unless they are within 3 adjacent tiles to their own hive.
 2e) Players are not permitted to attack while there are reinforcements in your base. You can check using the 'Backup' button in your War Hall.
  - structures - 
